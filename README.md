@@ -1,2 +1,3 @@
 # secretary
-Command line tool for the modern corporate secretary
+
+Command line tool to generate and maintain minutes, attendance records, agenda, and policy documentation.
